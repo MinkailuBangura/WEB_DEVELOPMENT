@@ -1,0 +1,174 @@
+
+*{
+ 
+}
+
+.body{
+  background-color: aliceblue;
+}
+
+.logo{
+  background-color: aliceblue;
+}
+
+.kelvin{
+  background-color: aliceblue;
+}
+
+.kelvin1{
+  background-color: aliceblue;
+}
+
+.tabs{
+  background-color: aliceblue;
+}
+
+
+.tesla{
+  background-color: rgb(255, 255, 255);
+  height: 250px;
+  width: 250px;
+  
+  float: left;
+  margin: 92px;
+}
+
+.footer{
+  height: 50px;
+  width: 300px;
+background-color: aliceblue;
+}
+
+.socialmedia{
+  background-color: rgb(255, 255, 255);
+  height: 100px;
+  width: 100px;
+  
+  float: left;
+  margin: 60px;
+}
+
+.mikk{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 300px;
+  
+  float: left;
+  margin: 60px;
+}
+
+.bangs{
+display: flex;
+justify-content: center;
+  background-color: rgb(255, 255, 255);
+  height: 150px;
+  width: 200px;
+  
+  float: left;
+  margin: 60px;
+align-items: center;
+}
+
+
+.bangss{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  height:150px;
+  width: 200px;
+  
+  float: left;
+  margin: 60px;
+  align-items: center;
+
+}
+
+
+.bangsss{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  height: 150px;
+  width: 200px;
+  
+  float: left;
+  margin: 60px;
+align-items: center;
+}
+
+
+.bangssss{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  height: 150px;
+  width: 200px;
+  
+  float: left;
+  margin: 60px;
+align-items: center;
+}
+
+.mikkii{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 300px;
+  
+  float: left;
+  margin: 60px;
+
+}
+
+.mikkyy{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 300px;
+  
+  float: left;
+  margin: 60px;
+
+}
+
+
+nav .tabs, .tabs a{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+  }
+
+  .tabs a:hover{
+    color: rgb(6, 180, 228);
+  }
+
+.tabs ul,li,a{
+    display: inline-block;
+    padding: 5px 20px;
+    align-items: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+.headpic{
+
+  align-items: center;
+  background-color: aliceblue;
+}
+
+.oscar{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  align-items: center;
+  
+}
+.oscar div{
+  padding: 20px;
+  
+
+}
+.oscar div img{
+  width: 200px;
+  height: 200px;
+}
